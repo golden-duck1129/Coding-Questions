@@ -24,4 +24,4 @@ class Solution:
 isConnected = [[1, 1, 0], [1, 1, 0], [0, 0, 1]]
 solution = Solution()
 print(solution.findCircleNum(isConnected))
-# Time Complexity : O(n^2)
+# Time Complexity : O(n+ 2E)
