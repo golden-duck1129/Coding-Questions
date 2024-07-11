@@ -30,4 +30,4 @@ solution = Solution()
 n = 3
 edges = [[1, 1, 0], [1, 1, 0], [0, 0, 1]]
 print(solution.countComponents(n, edges))
-# Time Complexity O(n^2)
+# Time Complexity O(n + 2E)
